@@ -1,7 +1,7 @@
 hello
 AMAZING
 """
-helloworld.py
+hello.py
 
 A program to say hello
 """
